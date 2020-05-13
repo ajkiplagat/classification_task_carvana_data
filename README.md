@@ -3,8 +3,8 @@
 
 # Data Dictionary
 
-- RefID - Unique (sequential) number assigned to vehicles
 - (Target Variable) IsBadBuy - Identifies if the kicked vehicle was an avoidable purchase 
+- RefID - Unique (sequential) number assigned to vehicles
 - PurchDate - The Date the vehicle was Purchased at Auction
 - VehYear - The manufacturer's year of the vehicle
 - VehicleAge - The Years elapsed since the manufacturer's year
